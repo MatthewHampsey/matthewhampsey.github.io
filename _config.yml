@@ -1,0 +1,6 @@
+name: Matthew Hampsey
+markdown: kramdown
+highlighter: rouge
+kramdown:
+           math_engine: mathjax
+permalink: /blog/:year/:month/:day/:title
